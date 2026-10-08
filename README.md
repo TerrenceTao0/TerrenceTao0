@@ -6,15 +6,18 @@
 ![Java](https://img.shields.io/badge/Java-18181B?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![SQL](https://img.shields.io/badge/SQL-18181B?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Lua](https://img.shields.io/badge/Lua-18181B?style=for-the-badge&logo=lua&logoColor=2C2D72)
+
 ![React](https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-18181B?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-18181B?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+
 ![Node.js](https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
 ![FastAPI](https://img.shields.io/badge/FastAPI-18181B?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Prisma](https://img.shields.io/badge/Prisma-18181B?style=for-the-badge&logo=prisma&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-18181B?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Redis](https://img.shields.io/badge/Redis-18181B?style=for-the-badge&logo=redis&logoColor=FF4438)
+
 ![Docker](https://img.shields.io/badge/Docker-18181B?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=F05032)
 ![Vercel](https://img.shields.io/badge/Vercel-18181B?style=for-the-badge&logo=vercel&logoColor=white)
